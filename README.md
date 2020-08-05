@@ -1,0 +1,2 @@
+# SITURB
+Aplicação JSF, chamada de Sistema Integrado de Transportes Urbanos (SITURB), que tem como objetivo cadastrar: empresas de transportes urbanos com razão social e CNPJ; ônibus com veículo, marca, modelo e ano; linhas com rota, número, origem, destino, descrição, horário de saída e chegada; e funcionários com nome, matrícula, CPF e endereço (motorista e cobrador), e informações da carteira de habilitação (motorista apenas).
